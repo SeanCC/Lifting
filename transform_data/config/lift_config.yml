@@ -1,0 +1,3 @@
+# Cutoff period of inactivity, in years, for a lifter to be considered "inactive"
+cutoff_period: 2
+subset_size: 20000
